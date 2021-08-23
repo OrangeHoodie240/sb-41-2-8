@@ -1,0 +1,9 @@
+.dog-list-img{
+    width: 100px; 
+    height: auto;
+}
+
+.dog-list {
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
